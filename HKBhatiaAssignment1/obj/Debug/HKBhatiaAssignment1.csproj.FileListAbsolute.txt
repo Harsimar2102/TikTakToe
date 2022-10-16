@@ -1,0 +1,10 @@
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\bin\Debug\HKBhatiaAssignment1.exe.config
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\bin\Debug\HKBhatiaAssignment1.exe
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\bin\Debug\HKBhatiaAssignment1.pdb
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\obj\Debug\HKBhatiaAssignment1.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\obj\Debug\HKBhatiaAssignment1.Form1.resources
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\obj\Debug\HKBhatiaAssignment1.Properties.Resources.resources
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\obj\Debug\HKBhatiaAssignment1.csproj.GenerateResource.cache
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\obj\Debug\HKBhatiaAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\obj\Debug\HKBhatiaAssignment1.exe
+C:\Users\priya\OneDrive\Desktop\HKBhatiaAssignment1\obj\Debug\HKBhatiaAssignment1.pdb
